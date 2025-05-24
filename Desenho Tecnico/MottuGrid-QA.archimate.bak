@@ -238,7 +238,7 @@
         <bounds x="2497" y="696" width="172" height="85"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-a2b13b2b1314449fae4728690700c281" targetConnections="id-d5f22b9c68fa490781a28d7aa91ebb56" archimateElement="id-20ab421998de4b638b6051d8a027f1e7">
-        <bounds x="2833" y="739" width="149" height="87"/>
+        <bounds x="2772" y="720" width="149" height="87"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-67d1eae585b34b749d2f2fa7bcb5537b" targetConnections="id-6d69b86a8f274906a2a7fe5a8abb5479" archimateElement="id-e5edd6007ed04cc79301b4755e7e5680">
         <bounds x="3085" y="768" width="145" height="97"/>
